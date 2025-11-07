@@ -6,6 +6,7 @@ import icon from 'astro-icon';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://example.com',
+  site: 'https://github.com/nick-Sutton/acu_ncsu',
+  base: '/acm_ncsu',
   integrations: [mdx(), sitemap(), icon()],
 });
