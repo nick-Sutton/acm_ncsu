@@ -32,7 +32,7 @@ Before getting started, you'll need:
 
 # Contributing
 
-We welcome any and allcontributions! A great place to start is browsing the current issues. Here's how to get started:
+We welcome any and all contributions! A great place to start is browsing the current issues. Here's how to get started:
 
 1. **Fork the repository** to your own GitHub account
 
